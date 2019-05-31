@@ -81,17 +81,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Mon super site
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">DOCUMENTATION</a>
+                    <a href="http://affichusers.test/route-2">AFFICHER USERS VIA URL ROUTE-2</a>
+                    <a href="http://affichusers.test/affCount2">AFFICHER USERS VIA AFFCOUNT-2</a>
+                    <a href="http://affichusers.test/affCount3">AFFICHER USERS VIA AFFCOUNT-3</a>
+                    <a href="http://affichusers.test/affCount4">AFFICHER USERS VIA AFFCOUNT-4</a>
+                    <a href="http://affichusers.test/affCount5">AFFICHER USERS VIA AFFCOUNT-5</a>
                 </div>
             </div>
         </div>
